@@ -13,9 +13,10 @@ McIntosh High School, Peachtree City, GA-- *High School Diploma, Expected 2025*
 
 ## Hobbies
 - Reading
-- Poetry
+- Poetry/ Writing
+- Philosophy
 - Penpalling
-- Guitar
+
 
 ## Awards
 - Semifinalist, First and Second Year NSDA GA State Championship Speech & Debate Tournament: Public Forum
