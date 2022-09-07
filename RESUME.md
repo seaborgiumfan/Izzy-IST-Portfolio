@@ -1,5 +1,12 @@
 # Isabella Mathews 
 
+## Work History
+Cashier-- Red RiceBowl, Peachtree City, GA
+- August 21, 2022-Present
+  - Uses a cash register
+  - Takes multiple orders on various devices
+  - Can take phone calls
+
 ## Education History
 McIntosh High School, Peachtree City, GA-- *High School Diploma, Expected 2025*
 - August 2021-May 2025
