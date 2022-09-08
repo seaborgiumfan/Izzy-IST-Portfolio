@@ -4,4 +4,4 @@ Hi, my name is Izzy. This is my IST portfolio I'm making at [Mcintosh High Schoo
 
 ## Contents
 - [Resume](RESUME.md)
-- [Programming Language Table](PROGRAMMING-LANGUAGES-TABLE.md)
+- [Programming Languages Table](PROGRAMMING-LANGUAGES-TABLE.md)
