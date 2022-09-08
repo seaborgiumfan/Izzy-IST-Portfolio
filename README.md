@@ -5,3 +5,4 @@ Hi, my name is Izzy. This is my IST portfolio I'm making at [Mcintosh High Schoo
 ## Contents
 - [Resume](RESUME.md)
 - [Programming Languages Table](PROGRAMMING-LANGUAGES-TABLE.md)
+- [Binary Logic](BINARY-LOGIC.md)
