@@ -47,4 +47,5 @@ McIntosh High School, Peachtree City, GA-- *High School Diploma, Expected 2025*
 - Keys Learned
   - J, F, and space
   - U, R, and K
-  - Avg. Speed 34wpm
+  - C, G, and N
+- Avg Speed 34 wpm
